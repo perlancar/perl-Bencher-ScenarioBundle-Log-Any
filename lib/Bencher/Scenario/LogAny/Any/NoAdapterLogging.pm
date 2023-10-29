@@ -1,11 +1,13 @@
-package Bencher::Scenario::LogAny::NoAdapterLogging;
-
-# DATE
-# VERSION
+package Bencher::Scenario::Log::Any::NoAdapterLogging;
 
 use 5.010001;
 use strict;
 use warnings;
+
+# AUTHORITY
+# DATE
+# DIST
+# VERSION
 
 our $scenario = {
     summary => 'Benchmark Log::Any logging speed when no adapter has been configured',

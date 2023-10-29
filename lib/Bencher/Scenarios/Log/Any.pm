@@ -1,6 +1,10 @@
-package Bencher::Scenarios::LogAny;
+package Bencher::Scenarios::Log::Any;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 1;

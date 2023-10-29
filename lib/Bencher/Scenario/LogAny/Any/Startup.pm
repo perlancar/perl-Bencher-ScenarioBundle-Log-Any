@@ -1,11 +1,13 @@
-package Bencher::Scenario::LogAny::Startup;
-
-# DATE
-# VERSION
+package Bencher::Scenario::Log::Any::Startup;
 
 use 5.010001;
 use strict;
 use warnings;
+
+# AUTHORITY
+# DATE
+# DIST
+# VERSION
 
 our $scenario = {
     module_startup => 1,
