@@ -1,3 +1,10 @@
+0.100   2023-10-29  Released-By: PERLANCAR; Urgency: medium
+
+        - Rename module/dist: Bencher-Scenarios-Log{Any,::Any}.
+
+        - Add Log::Any 1.00 to the archive.
+
+
 0.09    2017-07-10  Released-By: PERLANCAR
 
 	- Remove Log::Any::IfLOG from list of participants.
@@ -55,4 +62,3 @@
 0.01    2016-01-02  Released-By: PERLANCAR
 
         - First release.
-
